@@ -14,7 +14,7 @@ function errorHandler(error){
 
 
 function clickHandler(){
-  // outputDiv.innerText ="ikuj"+txtInput.value;
+  
   var inputTxt = txtInput.value;
 
   fetch(getTranslationURL(inputTxt))

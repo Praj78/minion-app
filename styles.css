@@ -1,0 +1,47 @@
+
+       
+        #tcenter{
+            text-align: center;
+            height:15vh;
+            width:100%;
+            margin:auto;
+            display: block;
+            padding-top: 0rem;
+            background-color: aqua;
+            
+        }
+     
+       textarea{
+            width: 80%;
+            display:block;
+            height:15vh;
+            margin:1rem 3rem;
+            padding:1rem 2rem ;
+        }
+        #btn-translate{
+            
+            background-color: aqua;
+            max-width:200px;
+            margin:1rem 3rem;
+            padding:1rem 2rem ;
+            text-align: center;
+            
+          }
+        #output{
+            border: 2px solid black;
+            height:10vh;
+            width:80%;
+            margin:1rem 3rem;
+            padding:1rem 2rem ;
+        }
+        footer{
+            text-align: center;
+            height:18vh;
+            width:100%;
+            margin:auto;
+            display: block;
+            padding-bottom: 0rem;
+            background-color: aqua;
+        }
+        
+  
